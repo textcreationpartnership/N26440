@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:035159_0000_100108004308BFA8"/>
-            <pb facs="tcp:035159_0001_10012A5C17F64318"/>
+            <pb facs="unknown:035159_0000_100108004308BFA8"/>
+            <pb facs="unknown:035159_0001_10012A5C17F64318"/>
             <p>FRAGMENTS OF THE NATURAL HISTORY OF PENNSYLVANIA.</p>
             <p>BY BENJAMIN SMITH BARTON, M.D.</p>
             <p>CORRESPONDENT-MEMBER OF THE SOCIETY OF THE ANTIQUARIES OF SCOTLAND; MEMBER OF THE AMERICAN PHILOSOPHICAL SOCIETY; FELLOW OF THE AMERICAN ACADEMY OF ARTS AND SCIENCES OF BOSTON; CORRESPONDING MEMBER OF THE MASSACHUSETTS HISTORICAL SOCIETY; MEMBER OF THE PHY<g ref="char:EOLhyphen"/>SICAL SOCIETY OF LENA; ONE OF THE FOREIGN MEMBERS OF THE LINNAEAN SOCIETY OF LONDON; AND <hi>PROFESSOR OF MATERIA MEDICA, NATURAL HISTORY AND BOTANY,</hi> IN THE UNIVERSITY OF PENNSYLVANIA.</p>
@@ -136,11 +136,11 @@
             </q>
          </div>
          <div type="copyright_notice">
-            <pb facs="tcp:035159_0002_10012A5D9BCBF780"/>
+            <pb facs="unknown:035159_0002_10012A5D9BCBF780"/>
             <p>COPY-RIGHT SECURED ACCORDING TO LAW.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:035159_0003_10012A62433DC9C8"/>
+            <pb facs="unknown:035159_0003_10012A62433DC9C8"/>
             <p>TO THE LINNAEAN SOCIETY, THE FOLLOWING FRAGMENTS (WHICH ARE INTENDED TO ILLUSTRATE, IN SOME DEGREE, THE NATURAL HISTORY OF A COUNTRY EXTREMELY INTERESTING TO PHILOSOPHERS, AND HITHERTO VERY IMPERFECTLY EXPLORED) ARE, WITH GREAT RESPECT, INSCRIBED BY THE SOCIETY'S FRIEND AND BROTHER-MEMBER, BENJAMIN SMITH BARTON.</p>
             <closer>
                <dateline>PHILADELPHIA, <date>April 18th, 1799.</date>
@@ -148,7 +148,7 @@
             </closer>
          </div>
          <div type="introduction">
-            <pb facs="tcp:035159_0004_10012A63C90426B8"/>
+            <pb facs="unknown:035159_0004_10012A63C90426B8"/>
             <head>INTRODUCTION.</head>
             <div n="1" type="section">
                <head>§. 1.</head>
@@ -167,7 +167,7 @@
             <div n="4" type="section">
                <head>§. IV.</head>
                <p>The fifth and laſt column contains "Miſcellaneous Obſervations." In this part of my Sketches, I have done but very little. Want of time has prevented me from throwing into this column, many intereſting facts, ſome of which will be preſented, perhaps to greater advantage, to the public, in my future publications. The few Ther<g ref="char:EOLhyphen"/>mometrical
-<pb n="vi" facs="tcp:035159_0005_10012A6899289CE0"/>and Barometrical obſervations, which occur under this head, are given on the authority of my ever<g ref="char:EOLhyphen"/>venerated maternal uncle, the late David Rittenhouſe, <abbr>Eſq</abbr> Theſe obſervations were made in Philadelphia.</p>
+<pb n="vi" facs="unknown:035159_0005_10012A6899289CE0"/>and Barometrical obſervations, which occur under this head, are given on the authority of my ever<g ref="char:EOLhyphen"/>venerated maternal uncle, the late David Rittenhouſe, <abbr>Eſq</abbr> Theſe obſervations were made in Philadelphia.</p>
             </div>
             <div n="5" type="section">
                <head>§. V.</head>
@@ -191,7 +191,7 @@
             <div n="8" type="section">
                <head>§. VIII.</head>
                <p>I ſuſpect it will be found, that, in general, our ſouthern birds migrate farther north in the tract of country weſt than in that eaſt of the great ranges of our mountains. With reſpect to the birds, I hazard this merely as a con<g ref="char:EOLhyphen"/>jecture:
-<pb n="vii" facs="tcp:035159_0006_10012A6A39FE09F0"/>but it is a conjecture which derives ſupport from many intereſting facts which I have collected, and which will be mentioned and explained in my <hi>Geographical View of the Trees and Shrubs of North-America.</hi> In that work, I ſhall ſhow, that the ſouthern trees and ſhrubs (that is, thoſe vegetables which attain to their greateſt perfection in the ſouthern climates of our continent, particularly of the United-States) are, in general, found much farther north in the weſtern than they are in the eaſtern parts of our country. This fact ſeems to ſhow, and the point is put beyond any manner of doubt, by thermometrical obſervations, that the weſtern climate, in the ſame lati<g ref="char:EOLhyphen"/>tudes, is more temperate than the eaſtern. Of courſe, it were natural to ſuppoſe, that the ſouthern birds, to whom heat is ſo genial, would often be ſolicited farther north in the weſtern than in the eaſtern diſtrict. This, with reſpect to ſome birds, is actually the caſe. Mr. Jefferſon has obſerved, that "Perroquets even winter on the Sioto, in the 39th degree of latitude."<note n="*" place="bottom">Notes on the State of Virginia. Page 139. The original edition.</note> I have certain information, that theſe birds winter ſtill farther north than is here mentioned.</p>
+<pb n="vii" facs="unknown:035159_0006_10012A6A39FE09F0"/>but it is a conjecture which derives ſupport from many intereſting facts which I have collected, and which will be mentioned and explained in my <hi>Geographical View of the Trees and Shrubs of North-America.</hi> In that work, I ſhall ſhow, that the ſouthern trees and ſhrubs (that is, thoſe vegetables which attain to their greateſt perfection in the ſouthern climates of our continent, particularly of the United-States) are, in general, found much farther north in the weſtern than they are in the eaſtern parts of our country. This fact ſeems to ſhow, and the point is put beyond any manner of doubt, by thermometrical obſervations, that the weſtern climate, in the ſame lati<g ref="char:EOLhyphen"/>tudes, is more temperate than the eaſtern. Of courſe, it were natural to ſuppoſe, that the ſouthern birds, to whom heat is ſo genial, would often be ſolicited farther north in the weſtern than in the eaſtern diſtrict. This, with reſpect to ſome birds, is actually the caſe. Mr. Jefferſon has obſerved, that "Perroquets even winter on the Sioto, in the 39th degree of latitude."<note n="*" place="bottom">Notes on the State of Virginia. Page 139. The original edition.</note> I have certain information, that theſe birds winter ſtill farther north than is here mentioned.</p>
             </div>
             <div n="9" type="section">
                <head>§. IX.</head>
@@ -210,7 +210,7 @@
             <div n="12" type="section">
                <head>§. XII.</head>
                <p>It is an intereſting fact, for which we are indebted to Mr. William Bartram, that very few of our birds of paſſage from the ſouth "build or rear their young in the ſouth or maritime parts of Virginia and Carolina, Georgia and
-<pb n="viii" facs="tcp:035159_0007_10012A6FD88C1E60"/>Florida."<note n="*" place="bottom">Travels, &amp;c. Page 287.</note> This circumſtance leads to a ſuſpicion, that the principal cauſe (I will not, out of complaiſance to any one, call it a neceſſary inſtinct) which leads or impels theſe birds to migrate to the northward, is that they may make choice of a proper climate, abounding in their favourite food, to perform their amours, to build their neſts, and to rear their young. Much light might be thrown upon this curious ſubject, if natural hiſtory were cultivated in the United-States, with a portion of that innocent and uſeful zeal with which it is cultivated in Europe: with only a ſmall portion of that ardent zeal which ſo ſtrongly characterizes the Americans in their purſuit of gain. But, as yet, little attention is paid to the ſtudy of nature in the United-States. In our colleges, it is not taught as an indiſpen<g ref="char:EOLhyphen"/>ſable branch of polite or uſeful knowledge, but is obliged to yield its laurels to languages which are withered or dead, and to ſtudies which are uſeleſs or ignoble.<note n="†" place="bottom">I ever have been a friend to the ſtudy of the two ancient languages, the Greek and the Latin, which are taught in our ſchools. They are abſolutely neceſſary to the complete attainment of ſome ſciences, ſuch as natural hiſtory (including botany), and medicine; and I think with Eraſmus, that a phyſician ſhould he aſhamed not to know them. But too much time is diſſipated in the acquiſition of theſe languages. If I do not greatly miſtake, this truth begins to be acknowledged among us. <hi>Video mediora.</hi> If only one-ſixth part of the time which is conſumed in acquiring the Greek and Latin languages (particularly the former), were appropriated to the ſtudy of natural hiſtory, in leſs than twenty years, the animal, the vegetable, and the mineral productions of the United-States would be pretty well inveſtigated. But what, in the cultivation of a ſcience ſo extenſive, and ſo difficult, can be expected from the labours of two or three individuals, unaided by the public, and tra<g ref="char:EOLhyphen"/>melled by profeſſional engagements and purſuits?</note>
+<pb n="viii" facs="unknown:035159_0007_10012A6FD88C1E60"/>Florida."<note n="*" place="bottom">Travels, &amp;c. Page 287.</note> This circumſtance leads to a ſuſpicion, that the principal cauſe (I will not, out of complaiſance to any one, call it a neceſſary inſtinct) which leads or impels theſe birds to migrate to the northward, is that they may make choice of a proper climate, abounding in their favourite food, to perform their amours, to build their neſts, and to rear their young. Much light might be thrown upon this curious ſubject, if natural hiſtory were cultivated in the United-States, with a portion of that innocent and uſeful zeal with which it is cultivated in Europe: with only a ſmall portion of that ardent zeal which ſo ſtrongly characterizes the Americans in their purſuit of gain. But, as yet, little attention is paid to the ſtudy of nature in the United-States. In our colleges, it is not taught as an indiſpen<g ref="char:EOLhyphen"/>ſable branch of polite or uſeful knowledge, but is obliged to yield its laurels to languages which are withered or dead, and to ſtudies which are uſeleſs or ignoble.<note n="†" place="bottom">I ever have been a friend to the ſtudy of the two ancient languages, the Greek and the Latin, which are taught in our ſchools. They are abſolutely neceſſary to the complete attainment of ſome ſciences, ſuch as natural hiſtory (including botany), and medicine; and I think with Eraſmus, that a phyſician ſhould he aſhamed not to know them. But too much time is diſſipated in the acquiſition of theſe languages. If I do not greatly miſtake, this truth begins to be acknowledged among us. <hi>Video mediora.</hi> If only one-ſixth part of the time which is conſumed in acquiring the Greek and Latin languages (particularly the former), were appropriated to the ſtudy of natural hiſtory, in leſs than twenty years, the animal, the vegetable, and the mineral productions of the United-States would be pretty well inveſtigated. But what, in the cultivation of a ſcience ſo extenſive, and ſo difficult, can be expected from the labours of two or three individuals, unaided by the public, and tra<g ref="char:EOLhyphen"/>melled by profeſſional engagements and purſuits?</note>
                </p>
             </div>
             <div n="13" type="section">
@@ -222,7 +222,7 @@
             <div n="14" type="section">
                <head>§. XIV.</head>
                <p>It muſt not be imagined, that the birds which I have enumerated arrive uniformly, every year, at the times which are prefixed to their names, in the firſt column. I have long been perſuaded, that the uniformity of the ar<g ref="char:EOLhyphen"/>rival of the migratory birds, in any given country, is not ſo great as many naturaliſts have imagined. The atten<g ref="char:EOLhyphen"/>tion which I have paid to this curious ſubject in Pennſylvania, has convinced me, that my ſuſpicion was well founded. The migration of birds is not a "determinate inſtinct,<note n="¶" place="bottom">Dr. Adam Ferguſon.</note> but an act of volition, or will. Hence, the ſeaſons and
-<pb n="ix" facs="tcp:035159_0008_10012A73E3E98AE0"/>other circumſtances will greatly regulate the arrival of birds in, and their flight or removal from, a particular country. Sometimes, there is a difference of three weeks or a month between the arrival, or appearance, of the ſame ſpecies, in two different years. This will appear from the following inſtances, which are ſelected from many others.</p>
+<pb n="ix" facs="unknown:035159_0008_10012A73E3E98AE0"/>other circumſtances will greatly regulate the arrival of birds in, and their flight or removal from, a particular country. Sometimes, there is a difference of three weeks or a month between the arrival, or appearance, of the ſame ſpecies, in two different years. This will appear from the following inſtances, which are ſelected from many others.</p>
             </div>
             <div n="15" type="section">
                <head>§. XV.</head>
@@ -240,7 +240,7 @@
             <div n="17" type="section">
                <head>§. XVII.</head>
                <p>If birds, in their migration from one country to another, were impelled by a "determinate," or neceſſary inſtinct, the periods of their arrival and departure would be more uniform and fixed. But we have ſeen, that there is a conſiderable difference in theſe reſpects, even in two years immediately in ſucceſſion. Such great regularity in the migrations of theſe animals by no means accords with thoſe accommodating habits, which the naturaliſt diſcovers in his inveſtigation of the manners of all animals; thoſe habits which have been given to them, as to us, by a Cre<g ref="char:EOLhyphen"/>ator
-<pb n="x" facs="tcp:035159_0009_10012A7A62F94710"/>whoſe works ſo loudly proclaim his wiſdom, and the extent of his benevolence and attention to the innume<g ref="char:EOLhyphen"/>rable living objects which he has formed.</p>
+<pb n="x" facs="unknown:035159_0009_10012A7A62F94710"/>whoſe works ſo loudly proclaim his wiſdom, and the extent of his benevolence and attention to the innume<g ref="char:EOLhyphen"/>rable living objects which he has formed.</p>
             </div>
             <div n="18" type="section">
                <head>§. XVIII.</head>
@@ -281,7 +281,7 @@
                      </gap>b<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>a.</note> and that the Marſh-Marygold (Caltha paluſtris) blows when the
-<pb n="xi" facs="tcp:035159_0010_10012A7BE7FCE488"/>Cuckoo ſings.<note n="*" place="bottom">Amaenitates Academicae. Vol. IV.</note> The amiable Mr. Stillingfleet remarked nearly the ſame coincidence in England. Dr. Darwin ob<g ref="char:EOLhyphen"/>ſerves, that the "word Coccux in Greek ſignifies both a young fig and a cuckoo, which is ſuppoſed to have ariſen from the coincidence of their appearance in Greece."<note n="†" place="bottom">Botanic Garden. Part II. Canto I. note.</note> Many inſtances of a ſimilar coincidence might be pointed out between the flowering of our Pennſylvanian vegetables and the arrival of certain birds. Thus it is obſerved, that the Wood-Cock (Scolopax Gallinago) commonly viſits us when the American Elm (Ulmus americana) is in full bloſſom: that is between the 8th and 18th of March.</p>
+<pb n="xi" facs="unknown:035159_0010_10012A7BE7FCE488"/>Cuckoo ſings.<note n="*" place="bottom">Amaenitates Academicae. Vol. IV.</note> The amiable Mr. Stillingfleet remarked nearly the ſame coincidence in England. Dr. Darwin ob<g ref="char:EOLhyphen"/>ſerves, that the "word Coccux in Greek ſignifies both a young fig and a cuckoo, which is ſuppoſed to have ariſen from the coincidence of their appearance in Greece."<note n="†" place="bottom">Botanic Garden. Part II. Canto I. note.</note> Many inſtances of a ſimilar coincidence might be pointed out between the flowering of our Pennſylvanian vegetables and the arrival of certain birds. Thus it is obſerved, that the Wood-Cock (Scolopax Gallinago) commonly viſits us when the American Elm (Ulmus americana) is in full bloſſom: that is between the 8th and 18th of March.</p>
             </div>
             <div n="22" type="section">
                <head>§. XXII.</head>
@@ -311,7 +311,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                <head>§. XXIII.</head>
                <p>Although in Pennſylvania, and many other parts of the United-States, the arrival of our birds does not appear to be as uniform as it is in many of the countries of the old world; <note n="§" place="bottom">See Page 10.</note> the arrival of ſeveral ſpecies is, nevertheleſs, ſo regular, that it may be conſidered as the ſignal for commencing certain agricultural operations. Thus, the Muſcicapa fuſca, which we call Pewe, is one of the earlieſt Spring birds of paſſage, viſiting the neighbourhood of Philadel<g ref="char:EOLhyphen"/>phia about the middle of March. We have ſeldom hard froſts after the arrival of this bird, which ſeems to give a pretty confident aſſurance to the farmer, that he may very ſoon begin to open the ground and plant. It is an old ob<g ref="char:EOLhyphen"/>ſervation in Pennſylvania, that when the Whip-poor-will (Caprimulgus virginianus) arrives, it is time to go bare<g ref="char:EOLhyphen"/>footed; that is, the ſpring ſeaſon is pretty far advanced, and ſufficiently warm to admit of laying aſide the uſe of ſhoes, without much inconvenience. This adage originated in the days of greater ſimplicity than the preſent. Some of our Indians believe, that this bird is a meſſenger ſent to call their attention to the planting of the ground. Accordingly upon the arrival of the Whip-poor-will, they ſay to one another, "the <hi>Weecolis</hi>
                   <note n="‖" place="bottom">This is the Delaware. Indian name for this bird.</note> is come: it is planting
-<pb n="xii" facs="tcp:035159_0011_10010806E170A758"/>time;" and while the bird is uttering the ſound of whip-poor-will, or weecolis, they will repeat the word <hi>"Hacki<g ref="char:EOLhyphen"/>beek,"</hi> which is "plant the ground."</p>
+<pb n="xii" facs="unknown:035159_0011_10010806E170A758"/>time;" and while the bird is uttering the ſound of whip-poor-will, or weecolis, they will repeat the word <hi>"Hacki<g ref="char:EOLhyphen"/>beek,"</hi> which is "plant the ground."</p>
             </div>
             <div n="24" type="section">
                <head>§. XXIV.</head>
@@ -354,7 +354,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                <p>Theſe various facts, it muſt be confeſſed, ſeem to give ſome degree of plauſibility to the notion, that our birds <hi>hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>mate,</hi> ‡ or take up their winter-quarters among us, and that they do not migrate to a diſtance. Still, however, I cannot but adopt the latter notion. The complete diſcloſure of the fact, that the ſerpents, frogs, ſome quadrupeds, &amp;c. become torpid, is rather an argument againſt the torpid ſtate of our birds. Why ſhould it be ſo much more difficult to diſcover the <hi>latter</hi> than the former in a torpid ſtate, if <hi>they</hi> actually went into this ſtate? Ten thouſand ſerpents may be found in the torpid ſtate as readily as a ſingle Swallow, or Humming. Bird.<note n="§" place="bottom">See Appendix P. 18.</note> It is recorded in ſome part of Mr. Boſ<g ref="char:EOLhyphen"/>well's ponderous <hi>Life</hi> of the late Dr. Samuel Johnſon, that in a converſation which took place on the ſubject of the an<g ref="char:EOLhyphen"/>nual diſappearance of Woodcocks, in England, the doctor obſerved, that the diſcovery of a few of theſe birds, in the ſummer time, only proved that the ſpecies does, in general, emigrate from the country. <hi>"Exceptia probat regulam,"</hi> ſaid the literary Hercules. I muſt confeſs, that to me this ſeems good ſenſe. In like manner, the diſcovery of a few Swallows, a few Turkey-Buzzards, a ſingle Humming-Bird, or a few birds of any other ſpecies, deemed migratory, in a tor<g ref="char:EOLhyphen"/>pid
-<pb n="xiii" facs="tcp:035159_0012_10012A84186EE9D0"/>or other ſtate, during the winter-ſeaſon, ſeems rather to ſtrengthen, than to weaken, the argument, that theſe birds are, in general, migratory birds. If all theſe birds continued among us, <hi>many</hi> of them would be found. The labours of one century, or more, in cutting down the timber of the foreſt, in blowing rocks, in draining mill<g ref="char:EOLhyphen"/>ponds, and marſhes, would furniſh more than five or ſix inſtances (and they not always quite ſo well authenti<g ref="char:EOLhyphen"/>cated as we could wiſh) of Swallows, &amp;c. being found during the winter-ſeaſon, in a benumbed ſtate.</p>
+<pb n="xiii" facs="unknown:035159_0012_10012A84186EE9D0"/>or other ſtate, during the winter-ſeaſon, ſeems rather to ſtrengthen, than to weaken, the argument, that theſe birds are, in general, migratory birds. If all theſe birds continued among us, <hi>many</hi> of them would be found. The labours of one century, or more, in cutting down the timber of the foreſt, in blowing rocks, in draining mill<g ref="char:EOLhyphen"/>ponds, and marſhes, would furniſh more than five or ſix inſtances (and they not always quite ſo well authenti<g ref="char:EOLhyphen"/>cated as we could wiſh) of Swallows, &amp;c. being found during the winter-ſeaſon, in a benumbed ſtate.</p>
             </div>
             <div n="27" type="section">
                <head>§. XXVII.</head>
@@ -367,7 +367,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
             <div n="29" type="section">
                <head>§. XXIX.</head>
                <p>We ſee that quadrupeds and ſome other animals do occaſionally, during ſevere winters, migrate to more ſouthern climates. I am aſſured, that the Bears migrate, in great numbers, every autumn, acroſs the Miſſiſſippi, going ſouth (perhaps to the mountains of New-Mexico), in ſearch of a milder climate. In the ſpring, they return again by
-<pb n="xiv" facs="tcp:035159_0013_1001080D0257CEC8"/>ſame rout. This migration of the bears is particularly obſerved at Manchac, on the Miſſiſſippi, about the latitude of —. Many other quadrupeds perform ſimilar migrations, both in the old and in the new world.</p>
+<pb n="xiv" facs="unknown:035159_0013_1001080D0257CEC8"/>ſame rout. This migration of the bears is particularly obſerved at Manchac, on the Miſſiſſippi, about the latitude of —. Many other quadrupeds perform ſimilar migrations, both in the old and in the new world.</p>
             </div>
             <div n="30" type="section">
                <head>§. XXX.</head>
@@ -381,7 +381,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
             <div n="32" type="section">
                <head>§ XXXII.</head>
                <p>Birds, in migrating, often loſe themſelves, particularly, perhaps, when they get into the currents of ſtrong winds, to which they muſt ſometimes be obedient. The large flight of Parakeets,<note n="§" place="bottom">See Page vi. §. VII.</note> which viſited the neighbourhood of Al<g ref="char:EOLhyphen"/>bany, in the winter of 1780, was no doubt carried thither by a ſtrong weſterly wind. Such wanderers, it is pro<g ref="char:EOLhyphen"/>bable, often go into a torpid ſtate. It is ſaid, that great numbers of Parakeets (I ſuppoſe the Pſittacus carolinenſis) are ſometimes, in the winter-ſeaſon, found torpid in the hollows of trees, in North-Carolina. Admitting the fact, is it not likely, that theſe birds have been wanderers, like the New-York flock juſt mentioned? Accidents of this kind are more frequent than is perhaps imagined. And I do not doubt that to ſuch accidents we muſt aſcribe <hi>ſome</hi> of the inſtances of ſwallows and other birds being found, in the winter-ſeaſon, in a ſtate of hybernation. It will be ſaid, that this idea favours the notion, that birds are capable of entering into this ſtate according to their ſituation. I do really ſuppoſe ſo. Perhaps all birds, all quadrupeds, in ſhort all animals, are capable of this ſtate. Nor are vegetables exempted from it. Thoſe aquatic plants which, at the approach of winter, withdraw themſelves to the bottom of the water, and, on the opening of the ſpring, emerge from their watery bed, may be denominated HYBER<g ref="char:EOLhyphen"/>NATING
-<pb n="xv" facs="tcp:035159_0014_10012A90A759E5F8"/>VEGETABLES. Perhaps this name might likewiſe be applied to thoſe vegetables, which are natives of warm, ſouthern countries, but gradually accommodate themſelves to the rigorous winters of northern climates. I think, it was the late Mr. John Hunter who firſt ventured to conjecture, that man himſelf is not incapable of be<g ref="char:EOLhyphen"/>coming torpid. Profeſſor Fabricius is of the ſame opinion.<note n="*" place="bottom">I am ſorry, that I have not now an opportunity of examining Mr. Fabricius's memoir. I ſpeak, from memory, of his opinions: but I hope I do not <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="xv" facs="unknown:035159_0014_10012A90A759E5F8"/>VEGETABLES. Perhaps this name might likewiſe be applied to thoſe vegetables, which are natives of warm, ſouthern countries, but gradually accommodate themſelves to the rigorous winters of northern climates. I think, it was the late Mr. John Hunter who firſt ventured to conjecture, that man himſelf is not incapable of be<g ref="char:EOLhyphen"/>coming torpid. Profeſſor Fabricius is of the ſame opinion.<note n="*" place="bottom">I am ſorry, that I have not now an opportunity of examining Mr. Fabricius's memoir. I ſpeak, from memory, of his opinions: but I hope I do not <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>.</note> Nor is it at all improbable. In his internal ſtructure, in the temperature of his blood, man differs in no very eſſential circumſtances from ſome of thoſe animals, which, in certain climates, almoſt conſtantly paſs into the torpid ſtate.</p>
             </div>
@@ -406,7 +406,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                <p>I fear, I ſhall be thought to have taken up too much time in endeavouring to prove, that the greater number of our birds which diſappear on the approach of winter, retire to ſouthern and milder climates. Indeed, I am of opinion, that the migration of our birds is a fact ſo well eſtabliſhed in the natural hiſtory of theſe animals, that it will not, in general, be doubted, except by thoſe perſons who are propenſe to doubt on every ſubject. In Aſia, in Africa, and in Europe, where obſervations on this ſubject have long been made, the migration of many ſpecies has been com<g ref="char:EOLhyphen"/>pletely eſtabliſhed. In our own times, it has been particularly obſerved that many ſpecies viſit different countries of Europe in the ſpring, and leave them in the autumn, in the ſame manner as other ſpecies viſit and leave us at the ſame ſeaſons of the year.</p>
             </div>
             <div n="35" type="section">
-               <pb n="xvi" facs="tcp:035159_0015_10012A9779B03FE0"/>
+               <pb n="xvi" facs="unknown:035159_0015_10012A9779B03FE0"/>
                <head>§. XXXV.</head>
                <p>But it is ſaid, we are unable to determine to what particular country theſe American birds of paſſage emigrate. This, which reſpect to many ſpecies, is ſtrictly true. The obſervation, however, does not apply to all the migratory birds which I have mentioned.</p>
             </div>
@@ -420,7 +420,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                </p>
             </div>
             <div n="38" type="section">
-               <pb n="xvii" facs="tcp:035159_0016_10012A9CD02462A0"/>
+               <pb n="xvii" facs="unknown:035159_0016_10012A9CD02462A0"/>
                <head>§. XXXVIII.</head>
                <p>It appears from the works of Hernandez<note n="†" place="bottom">Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -437,7 +437,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
             </div>
          </div>
          <div type="introduction_to_tables">
-            <pb n="xviii" facs="tcp:035159_0017_10012AA626D0DBF0"/>
+            <pb n="xviii" facs="unknown:035159_0017_10012AA626D0DBF0"/>
             <p>The following TABLES are divided into two Sections. The firſt ſection contains an enumeration of the SPRING and SUMMER Birds of Paſſage. All theſe, with the exception of a very few, which may be called RESIDENT BIRDS, come from the ſouth. The greater part of them are known to build and breed in Pennſylvania. At the cloſe of the ſummer and in the autumn, they retire again to the ſouth, and viſit us in the Spring.</p>
             <p>The ſecond ſection is devoted to the AUTUMNAL and WINTER Birds of Paſſage. Theſe paſſengers may be di<g ref="char:EOLhyphen"/>vided into two claſſes: viz. I. The Spring and Summer Birds of Paſſage, which are now on their return to the ſouth. In ſtrict propriety, theſe ought not to be conſidered as Autumnal and Winter Paſſengers: for they leave us in cold weather, either becauſe they are incapable of ſupporting the ſeverity of the winter-ſeaſon, or becauſe they cannot, during this ſeaſon, procure a ſufficiency of their proper and favourite food. Perhaps, for both theſe cauſes. II. The ſecond claſs comprehends the real Autumnal and Winter Birds of Paſſage. Theſe, compared with the Spring and Summer Birds of Paſſage, are very few in number. They all come from the north, and either winter with us or in the ſouthern ſtates. In the ſpring (frequently very early in the ſpring), they retire northerly, where they build, breed, and rear their young.</p>
          </div>
@@ -451,7 +451,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
       </front>
       <body>
          <div n="1" type="section">
-            <pb n="1" facs="tcp:035159_0018_10012AA9EE160110"/>
+            <pb n="1" facs="unknown:035159_0018_10012AA9EE160110"/>
             <p>
                <table>
                   <row>
@@ -602,7 +602,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                      <cell> </cell>
                      <cell> </cell>
                   </row>
-                  <pb n="2" facs="tcp:035159_0019_10012AAC799201B0"/>
+                  <pb n="2" facs="unknown:035159_0019_10012AAC799201B0"/>
                   <row>
                      <cell>1791.</cell>
                      <cell role="label" cols="2">THE SPRING AND SUMMER BIRDS OF PASSAGE.</cell>
@@ -797,7 +797,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                      <cell> </cell>
                      <cell>The Bull-Frog (Rana ocellata) begins its amours. The male roars morning and evening.</cell>
                   </row>
-                  <pb n="3" facs="tcp:035159_0020_10012AB1111D7840"/>
+                  <pb n="3" facs="unknown:035159_0020_10012AB1111D7840"/>
                   <row>
                      <cell>Ardea Ny<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -964,7 +964,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                            <desc>•</desc>
                         </gap> in the afternoon. The greateſt height of the</cell>
                   </row>
-                  <pb n="4" facs="tcp:035159_0021_10012AB4DF154298"/>
+                  <pb n="4" facs="unknown:035159_0021_10012AB4DF154298"/>
                   <row>
                      <cell>1791.</cell>
                      <cell role="label" cols="2">THE SPRING AND SUMMER BIRDS OF PASSAGE.</cell>
@@ -1096,7 +1096,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                         <hi>Travels.</hi>
                      </cell>
                   </row>
-                  <pb n="5" facs="tcp:035159_0022_10012AB9940E0498"/>
+                  <pb n="5" facs="unknown:035159_0022_10012AB9940E0498"/>
                   <row>
                      <cell>Ardea cinerea.</cell>
                      <cell>Marſh-Bittern.</cell>
@@ -1212,7 +1212,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                      <cell>Pyrola umbellata, Pyrola maculata, Lithoſper<g ref="char:EOLhyphen"/>mum virginianum, Circea leutitiana, Clinopo<g ref="char:EOLhyphen"/>dium incanum, Typha latifolia, in flower.</cell>
                      <cell>Moſt of our birds have now done rearing their young, and of courſe their melody begins to ceaſe.</cell>
                   </row>
-                  <pb n="6" facs="tcp:035159_0023_10012AC22DE0BC58"/>
+                  <pb n="6" facs="unknown:035159_0023_10012AC22DE0BC58"/>
                   <row>
                      <cell>1791.</cell>
                      <cell role="label" cols="2">THE SPRING AND SUMMER BIRDS OF PASSAGE.</cell>
@@ -1306,7 +1306,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                         </q>
                      </cell>
                   </row>
-                  <pb n="7" facs="tcp:035159_0024_10012AC603149300"/>
+                  <pb n="7" facs="unknown:035159_0024_10012AC603149300"/>
                   <row>
                      <cell>—25.</cell>
                      <cell> </cell>
@@ -1391,7 +1391,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                      <cell> </cell>
                      <cell> </cell>
                   </row>
-                  <pb n="8" facs="tcp:035159_0025_10010814A7848BF0"/>
+                  <pb n="8" facs="unknown:035159_0025_10010814A7848BF0"/>
                   <row>
                      <cell>1791.</cell>
                      <cell role="label" cols="2">AUTUMNAL AND WINTER BIRDS OF PASSAGE.</cell>
@@ -1495,7 +1495,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                      <cell> </cell>
                      <cell> </cell>
                   </row>
-                  <pb n="9" facs="tcp:035159_0026_10012ACBA45A6968"/>
+                  <pb n="9" facs="unknown:035159_0026_10012ACBA45A6968"/>
                   <row>
                      <cell>—30.</cell>
                      <cell> </cell>
@@ -1569,7 +1569,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                      <cell> </cell>
                      <cell>Thermometer, 34, at 7 o'clock in the morning: 47, at 2 o'clock in the afternoon.—Ba<g ref="char:EOLhyphen"/>rometer, 30.1.</cell>
                   </row>
-                  <pb n="10" facs="tcp:035159_0027_10012ACF6F486E60"/>
+                  <pb n="10" facs="unknown:035159_0027_10012ACF6F486E60"/>
                   <row>
                      <cell>1791.</cell>
                      <cell role="label" cols="2">AUTUMNAL AND WINTER BIRDS OF PASSAGE.</cell>
@@ -1682,7 +1682,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
          </div>
          <div n="3" type="section">
             <pb n="11"
-                facs="tcp:035159_0028_10012AD1035CDAE8"
+                facs="unknown:035159_0028_10012AD1035CDAE8"
                 rendition="simple:additions"/>
             <head>SECTION III. OF THE RESIDENT BIRDS OF PENNSYLVANIA.</head>
             <p>By the <hi>RESIDENT BIRDS,</hi> I mean thoſe birds which, in general, continue in Pennſylvania the whole year; which build their neſts, rear their young, and are commonly thought to continue, near the diſtrict in which they themſelves were reared. I ſhall enumerate theſe birds in the order of the Linnaean arrangement.</p>
@@ -1716,7 +1716,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                <p>Certhia fuſca of Bartram. MS. Brown-Creeper. I believe this ſpecies is not deſcribed. The general colour is a nut<g ref="char:EOLhyphen"/>brown: ſpeckled with black or deep duſky: ſome white ſpots on the firſt coverts. Edwards (<hi>Nat. Hiſt.</hi> vol. I. 26.) has a bird a good deal like this. I mean his Little Brown and White Creeper.</p>
             </div>
             <div type="list_of_birds">
-               <pb n="12" facs="tcp:035159_0029_10012AD4E11642B8"/>
+               <pb n="12" facs="unknown:035159_0029_10012AD4E11642B8"/>
                <head>GRALLAE. CLOVEN-FOOTED.</head>
                <p>* Ardea Herodias. Great Heron. In very mild, open winters.</p>
                <p>* Charadrius vociferus. Noiſy Plover. (Kildee, Kildeer). In very mild winters.</p>
@@ -1750,7 +1750,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                <p>In ſtrict language, there are very few of our birds entitled to the name of RESIDENTS. Pennſylvania, like every other portion of the United-States, is ſubject to great extremes of heat and cold; and theſe extremes are known to have a decided inſluence upon the diſpoſitions of animals. During our coldeſt winters, therefore, many of thoſe birds, which I have conſidered as reſidents, migrate to the ſouth. This was the caſe in the ever-memorable winter of 1779 and 1780, when very few of the uſually reſident birds continued with us: and many of thoſe, which did continue, periſhed with the ſeverity of the cold.</p>
             </div>
             <div type="description_of_birds">
-               <pb n="13" facs="tcp:035159_0030_10012AD66673AC78"/>
+               <pb n="13" facs="unknown:035159_0030_10012AD66673AC78"/>
                <head>OCCASIONAL, OR ACCIDENTAL, RESIDENTS.</head>
                <p>There is a propriety in the diviſion of the Reſident Birds, into ſuch as commonly continue in the country the whole year through, and ſuch as only occaſionally continue. The latter may be called OCCASIONAL, or ACCIDENTAL, RESIDENTS. They ſeldom continue with us except in open, mild winters. Theſe, in the preceding liſt, are marked with an aſteriſk.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1778,7 +1778,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                   <p n="5">5. Pſittacus pertinax? Illinois Parrot? Either this or ſome other ſpecies of the genus deſerves to be mentioned among the birds of Pennſylvania. It has been ſeen in Shareman's Valley. See Introduction, §. VII.</p>
                </div>
                <div type="list_of_birds">
-                  <pb n="14" facs="tcp:035159_0031_10012ADB3B4120E0"/>
+                  <pb n="14" facs="unknown:035159_0031_10012ADB3B4120E0"/>
                   <head>GRALLAE.</head>
                   <p n="6">6. Scolopax nutans? Nodding Snipe? Seen and killed in the winter-time, near Nazareth, in Pennſylvania. On the authority of Mr. Oppelt. Mentioned by Mr. Pennant, as having been obſerved in Chateaux Bay, on the coaſt of Labrador, in September. Arctic Zoology. VOL. II. P. 167.</p>
                   <p n="7">7. Charadrius Himantopus. Long-Legged Plover. On the authority of Mr. Oppelt.</p>
@@ -1802,7 +1802,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
             </div>
          </div>
          <div type="appendix">
-            <pb facs="tcp:035159_0032_10012ADDDC199698"/>
+            <pb facs="unknown:035159_0032_10012ADDDC199698"/>
             <head>I. APPENDIX: CONTAINING OBSERVATIONS On the greater number of the Birds, which are mentioned in the preceding Tables.<note n="†" place="bottom">Thoſe ſpecies which are known to l<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>d in P<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1839,7 +1839,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                   </gap>08, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>09.</note> have confounded the bird thus noted in the Tables with the Gracula Quiſcula of Linnaeus. But they are certainly diſtinct ſpecies. I do not
-<pb n="16" facs="tcp:035159_0033_10012AE0291209C0"/>know that the Gracula Quiſcula has ever been ſeen immediately about Philadelphia. It is commonly ſeen on or near the fea-coaſt, and not often twenty miles diſtant from it. It loves the neighbourhood of the ſea, and of brackiſh water. The Gracula which I mention, in the Tables, is very common about Philadelphia, where it aſſociates with the Red-Wing Oriole, or Oriolus phoeniceus, and with Crows (Corvus Corone), committing great depredations on the mays in the fields; and in the Southern States, on the rice that is ſtacked in the barn yards. Builds on trees, pretty high up, and ſeems, for this purpoſe, to give a preference to the evergreens, ſuch as tall Pine-trees, &amp;c. Our Gracula is either the Gracula Barrita, Boat-Tail-Grakle, or very nearly allied to it.</p>
+<pb n="16" facs="unknown:035159_0033_10012AE0291209C0"/>know that the Gracula Quiſcula has ever been ſeen immediately about Philadelphia. It is commonly ſeen on or near the fea-coaſt, and not often twenty miles diſtant from it. It loves the neighbourhood of the ſea, and of brackiſh water. The Gracula which I mention, in the Tables, is very common about Philadelphia, where it aſſociates with the Red-Wing Oriole, or Oriolus phoeniceus, and with Crows (Corvus Corone), committing great depredations on the mays in the fields; and in the Southern States, on the rice that is ſtacked in the barn yards. Builds on trees, pretty high up, and ſeems, for this purpoſe, to give a preference to the evergreens, ſuch as tall Pine-trees, &amp;c. Our Gracula is either the Gracula Barrita, Boat-Tail-Grakle, or very nearly allied to it.</p>
             <p>* Fringilla pecoris. This bird certainly belongs to the ſame genus as the Oriolus phoeniceus, whether that be Emberiza or Fringilla. It follows cows and horſes, pulling aſunder their excrements, in order to get at the feeds. It alights on their backs, eating flies and other inſects from them. In ſome parts of Pennſylvania, it is beſt known by the name of Cow-Bird. It is the Sturnus ſtercorarius of Bartram. <hi>Travels.</hi>
             </p>
             <p>* Motacilla Sialis. This is one of our earlieſt ſinging birds. Its note is highly agreeable. It is the <hi>Tſchi-boa-pe-ke-lis</hi> of the Delawares. See P. 12. Sect. III.</p>
@@ -1852,7 +1852,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                      <desc>•</desc>
                   </gap>), and the Swallows (Hirundo ruſtica), which benumbed them to ſuch a degree, that they ſeemed dead, but when they were brought into a warm room, they recovered, and after the ſun roſe, they all took to the wing. Not one of them was deſtroyed by the cold."</note> No wonder, therefore, that in a climate ſo variable as that of Pennſylvania, theſe birds ſhould ſometimes retire into trees, &amp;c. to ſeek ſhelter. I have obſerved, that ſeveral weeks after the firſt appearance of the Swallows in the ſpring, the coming on of a cold day, has occaſioned in them great diſtreſs. The following fact will ſtrikingly illuſtrate what I am ſaying. The beginning of the month of April, 1773, was unuſually warm. In the vicinity of Philadelphia, the clover, in ſome of the fields, was five or ſix inches high. The Martins (Hirundo purpurea) were ſeen about the city: at this time, there came on ſuddenly a very ſevere ſpell of cold weather. It deſtroyed many of theſe birds, ſeveral of which were ſeen to drop down, benumbed or dead, among the clover.</p>
             <p>If any ſpecies of our ſwallows continues with us the whole year, I think it moſt likely to be the Hirundo—, or Little Bank-Martin. I have been informed, that in ſeveral inſtances, this ſpecies has been found in a torpid
-<pb n="17" facs="tcp:035159_0034_10012AE402EF3C68"/>ſtate, in the holes of banks. I am alſo told, that above thirty years ago, a number of theſe birds were found in a Gum-tree (Nyſſa ſylvatica<note n="†" place="bottom">Of Marſhall: Nyſſa integriſolia of Aiton.</note>), about four miles from the town of Lancaſter. This was in the depth of winter. They were all torpid, but ſome of them, upon the application of heat, recovered.</p>
+<pb n="17" facs="unknown:035159_0034_10012AE402EF3C68"/>ſtate, in the holes of banks. I am alſo told, that above thirty years ago, a number of theſe birds were found in a Gum-tree (Nyſſa ſylvatica<note n="†" place="bottom">Of Marſhall: Nyſſa integriſolia of Aiton.</note>), about four miles from the town of Lancaſter. This was in the depth of winter. They were all torpid, but ſome of them, upon the application of heat, recovered.</p>
             <p>Of the four ſpecies of Pennſylvania ſwallows, (viz. Hirundo purpurea, the Hirundo ruſtica? the Hirundo—, and the Hirundo pelaſgia) the firſt, or Purple Martin, is the one which commonly viſits us the earlieſt, viz. at the end of March, or beginning of April. The Houſe-Swallow and the Little Bank-Martin come next, and the Chimney-Bird laſt of all. This, at leaſt, is the general order of the appearance of the four ſpecies.</p>
             <p>* Hirundo ruſtica? This is not the Hirundo ruſtica of Europe. It wants a name. It may be called Hirundo hor<g ref="char:EOLhyphen"/>reorum, from its ſo generally frequenting our barns to build its neſt. But this name is liable to objections. I do not know any of our <hi>Indian</hi> names for this ſpecies. One of <hi>theſe</hi> (if not too long) would be the beſt ſpecific name we could give to it.</p>
             <p>* Hirundo—. Little Bank-Martin. This is not the Hirundo riparia of Linnaeus. It has, however, very much the manners or habits of that bird. I have never ſeen the Hirundo riparia in any part of America. Kalm, Pennant, Gmelin, and other writers aſſert that it is a native of this continent. Dr. Belknap (P. 173) mentions the Hirundo riparia in his liſt of the birds of New-Hampſhire: but I do not doubt that he means our Little Bank-Martin. I know (without any particular alluſion to my excellent deceaſed friend) how the nomenclature of natural hiſtory has been conducted in America.</p>
@@ -1869,7 +1869,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
             <p>* Columba carolinenſis. See Section III. P. 12. It is the <hi>Me-med-ba-cke-mo</hi> of the Delaware-Indians.</p>
             <p>* Columba migratoria. Theſe birds commonly paſs the winter-ſeaſon in the foreſts of Carolina, Georgia, and the two Floridas; and paſs over the Gulph of Mexico to the Bahama-Iſlands. Upon their return ſouthward in the autumn, they ſometimes ſtay with us a conſiderable time, and they have been known, during our mild winters, to continue with us, as I have already obſerved. See Section III. P. 12. and Introduction. P. ix. § XVI.</p>
             <p>
-               <pb n="18" facs="tcp:035159_0035_1001081C51EDB4D8"/>
+               <pb n="18" facs="unknown:035159_0035_1001081C51EDB4D8"/>
 * Turdus rufus. Builds its neſt of looſe ſticks, uſing no cement. In this reſpect, it agrees with the Turdus Poly<g ref="char:EOLhyphen"/>glottos, or Mocking-Bird, but differs from the Turdus migratorius, or Robin. This laſt uſes a kind of mud or mortar, in making its neſt.</p>
             <p>* Ardea Nycticorax. The Ardea clamator of Bartram. <hi>Travels.</hi>
             </p>
@@ -1886,7 +1886,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
             <p>* Muſcicapa fuſca (Cateſby). The Muſcicapa cantatrix of Bartram. <hi>Travels.</hi>
             </p>
             <p>* Trochilus Colubris. I have not been able to learn that the Humming-Bird winters in any, not even in the warmeſt, parts of the United-States. I cannot heſitate to conſider it as a bird of paſſage. A gentleman, how<g ref="char:EOLhyphen"/>ever,
-<pb n="19" facs="tcp:035159_0036_10012AE68F9BB270"/>(whoſe name I do not recollect) wrote a little paper to prove, that theſe birds continue with us all the winter: why? becauſe one of them was one froſty day, in the month of October, found a good deal benumbed in a church, in ſome part of New-England; I think in Connecticut.</p>
+<pb n="19" facs="unknown:035159_0036_10012AE68F9BB270"/>(whoſe name I do not recollect) wrote a little paper to prove, that theſe birds continue with us all the winter: why? becauſe one of them was one froſty day, in the month of October, found a good deal benumbed in a church, in ſome part of New-England; I think in Connecticut.</p>
             <p>* Turdus Trichas. This bird is moſt improperly arranged by Linnaeus under his genus of Turdus.</p>
             <p>* Picus erythrocephalus. This is the <hi>Me-ma-koch-cus</hi> of the Delaware-Indians. See Section III. P. 11.</p>
             <p>* Motacilla aurocapilla. This is very properly conſidered as a ſpecies of Turdus, or Thruſh, both by Edwards and by Pennant. It is the Turdus minimus, vertice aurio, of Bartram. <hi>Travels.</hi>
@@ -1913,7 +1913,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
             <p>* Ardea parva of Bartram. I cannot find that this ſpecies is deſcribed. It builds its neſt in the graſs of meadows. It is the ſmalleſt ſpecies of the genus that is known to me.</p>
             <p>* Alauda Calandra. This is the Calandra pratenſis of Bartram. <hi>Travels.</hi> The Calandra floralia of the ſame gentleman.</p>
             <p>
-               <pb n="20" facs="tcp:035159_0037_10012AE8DC549BF8"/>
+               <pb n="20" facs="unknown:035159_0037_10012AE8DC549BF8"/>
 * Motacilla vermivora. Mr. Pennant is miſtaken when he aſſerts, that this bird "does not appear in Pennſylvania till July, in its paſſage northward."<note n="†" place="bottom">Arctic Zoology. Vol. II. P. 100.—See Introduction. P. viii.</note>
             </p>
             <p>Certhia floridana (mihi). This bird I do not find figured or deſcribed. It is mentioned by Mr. Bartram <hi>(Travels),</hi> under the name of Motacilla coroliniana, or Regulus magnus. It is nearly twice the ſize of the Houſe-Wren, or Certhia familiaris? Like it, its voice is loud and muſical. The upper ſide of the Certhia floridana is of a nut<g ref="char:EOLhyphen"/>brown colour, delicately marked with tranſverſe waved lines, of a darker colour. The throat, breaſt, and belly are of a yellowiſh clay colour. A line of the ſame colour paſſes, in form of an arch, over each eye. The bill is long, and a little bent downwards. This is a common bird in Carolina and Florida. It only occaſionally viſits Pennſylvania, viz. in long and warm ſummers. Is much more common in the Jerſeys.</p>
@@ -1929,7 +1929,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
                </gap>ond of the ripe fruit of the Dioſpyros virginiana, or Perſimmon. Builds its neſt in trees of a moderate ſize, about the end of May, or the beginning of June.</p>
             <p>Fringilla cannabina? I am not quite certain whether this be the Fringilla cannabina of Linnaeus. It is certainly very nearly allied to this ſpecies. Large flocks of theſe birds viſit us towards the end of the fall, or the begin<g ref="char:EOLhyphen"/>ning of the winter. They often fly at very great heights in the air: ſo high that they cannot readily be ſeen, though their noiſe is diſtinctly heard. Either this ſpecies or one very nearly allied to it is found as far ſouth as the country of the Cheerake-Indians, who call it <hi>O-na-clo-nei-ta.</hi> If this be the Fringilla cannabina, it has an ex<g ref="char:EOLhyphen"/>tenſive range in North-America, for it is found in the northern parts of this continent. It is one of the ſpecies which is common to the old and new world. It is not improbable, that it performs regular migrations from the one continent to the other.</p>
             <p>* Scolopax Gallinago. I have already mentioned this ſpecies,<note n="§" place="bottom">See Appendix I. P 16.</note> and have taken notice of the regularity of its arrival among us.<note n="‖" place="bottom">See Introduction. P. xi.</note> It is, certainly, a bird of paſſage. This ſeems to be the ſame ſpecies which is ſo common in En<g ref="char:EOLhyphen"/>gland,
-<pb n="21" facs="tcp:035159_0038_100129EF694FD610"/>and in other parts of Europe, and concerning whoſe diſappearance the learned have ſo much diſputed. There are pretty good reaſons for believing, that theſe birds perform regular migrations between Europe and America. It is remarkable, that they are more numerous on the weſtern than on the eaſtern ſhore of Britain. They are ſtill more numerous in the weſt of Ireland than in the weſt of Scotland. "For one Wood-Cock on the eaſt-coaſt of Scotland there are twelve in the weſt, and for one in the weſt of Scotland there are twelve in Ireland."<note n="*" place="bottom">Reverend Dr Walker, of Edinburgh.</note> Lord Kenmor, about the laſt of September, ſailed from Liſbon to Falmouth, in England, and for ten or twelve days was becalmed on the coaſt of France. Every day, he ſaw from ten to twenty Wood-cocks paſ<g ref="char:EOLhyphen"/>ſing from the weſt towards the land. Theſe it was imagined, came from the continent of America. But I do not ſuppoſe that all our Wood-cocks thus migrate to Europe. It is pretty certain, that theſe birds when they viſit us in the ſpring come from the ſouth, and in the autumn they return to the ſouth again. How far ſouth they proceed, I am unable to determine. They are known in Florida, where it is not improbable, that many of them paſs the winter-ſeaſon.</p>
+<pb n="21" facs="unknown:035159_0038_100129EF694FD610"/>and in other parts of Europe, and concerning whoſe diſappearance the learned have ſo much diſputed. There are pretty good reaſons for believing, that theſe birds perform regular migrations between Europe and America. It is remarkable, that they are more numerous on the weſtern than on the eaſtern ſhore of Britain. They are ſtill more numerous in the weſt of Ireland than in the weſt of Scotland. "For one Wood-Cock on the eaſt-coaſt of Scotland there are twelve in the weſt, and for one in the weſt of Scotland there are twelve in Ireland."<note n="*" place="bottom">Reverend Dr Walker, of Edinburgh.</note> Lord Kenmor, about the laſt of September, ſailed from Liſbon to Falmouth, in England, and for ten or twelve days was becalmed on the coaſt of France. Every day, he ſaw from ten to twenty Wood-cocks paſ<g ref="char:EOLhyphen"/>ſing from the weſt towards the land. Theſe it was imagined, came from the continent of America. But I do not ſuppoſe that all our Wood-cocks thus migrate to Europe. It is pretty certain, that theſe birds when they viſit us in the ſpring come from the ſouth, and in the autumn they return to the ſouth again. How far ſouth they proceed, I am unable to determine. They are known in Florida, where it is not improbable, that many of them paſs the winter-ſeaſon.</p>
             <p>Fringilla pinus (mihi). This is one of our ſpring birds of paſſage, and I think is not deſcribed. It commonly continues with us until the middle or the end of April, at which time the Apple and the Pear trees are in bloom. Theſe bloſ<g ref="char:EOLhyphen"/>ſoms, during ſome particular ſeaſons, are remarkably infeſted by a ſpecies of Chermes, which proves very deſtruc<g ref="char:EOLhyphen"/>tive to the fruit. By feeding on theſe devouring inſects, the Fringilla pinus is one of the moſt uſeful of our birds. This bird, the Fringilla triſtis, my Fringilla exilis, and the Fringilla cannabina? together with the Fringilla Car<g ref="char:EOLhyphen"/>duelis of the old world, all belong to the ſame natural genus, or family. They ſeem, in ſome reſpects, to con<g ref="char:EOLhyphen"/>ſtitute a genus diſtinct from the Fringilla.</p>
             <p>AS theſe FRAGMENTS profeſs to contain ſome <hi>uſeful</hi> obſervations,<note n="†" place="bottom">See the motto, in the Title-Page.</note> I think this a proper place to obſerve, that many of the birds of Pennſylvania, and other parts of the United-States, are ſo extremely uſeful to man, by deſtroying inſects and reptiles of various kinds, that they ought ſtudiouſly to be preſerved, if not by the LAWS, at leaſt by the GOOD-SENSE, of the country. It would require many obſervations to give a complete liſt and hiſtory of theſe USEFUL BIRDS. I am not in poſſeſſion of a ſufficient quantity of facts for this purpoſe: but ſome obſervations I can offer, as materials for future inquirers.</p>
             <p>It may, in the firſt place, be obſerved, that inſects appear to be the firſt food of almoſt all the birds of our country. The more I have inquired, the more I have been convinced, that almoſt all birds live, in ſome meaſure, upon inſects. Even thoſe ſpecies which conſume conſiderable quantities of feeds, berries, and fruit, alſo conſume large quantities of inſects: and there are reaſons to believe, that others whoſe principal food is the nectar of plants alſo live partly upon theſe inſects. Thus Mr. Brandis<note n="‡" place="bottom">See the article Trochilus in Ginelin's edition of the Syſtema Natr<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1939,7 +1939,7 @@ I could point out, in the happy compoſitions of this great poet, other inſtanc
             <p n="1">I. Muſcicapa acadica of Gmelin? This is the Leſſer Creſted Flycatcher of Pennant. It is called in Pennſylvania the Leſſer or Wood-Pewe. This little bird builds in woods and in foreſts. After the young have left the neſts, the parents conduct them to the gardens and habitations of men. Here the whole brood dwells in trees near the houſes, where they are fed with the common houſe-fly, and other inſects, that are caught by the old birds. The young ones are ſoon capable of obtaining their food in the ſame way. This ſpecies of Muſcicapa viſits us in the ſpring, and commonly continues with us until late in September, when it retires ſoutherly to winter.</p>
             <p n="2">II. The Motacilla Sialis, or Blue-Bird, feeds principally, if not entirely, upon inſects, both ſuch as are flying and and ſuch as are reptile. It is ſaid they eat currants.</p>
             <p n="3">
-               <pb n="22" facs="tcp:035159_0039_100129F34D8E3700"/>
+               <pb n="22" facs="unknown:035159_0039_100129F34D8E3700"/>
 III. Moſt of our ſpecies of Picus, or Woodpecker, appear to me to be very uſeful in deſtroying inſects, particularly thoſe which injure our foreſt and orchard-trees. It is true, theſe birds are ſometimes injurious to us, by eating ſome of our fineſt fruits, particularly our cherries, and therefore pains are taken to expell them from our gardens. But they devour vaſt numbers of inſects, particularly ſome of thoſe ſpecies which prove ſo deſtructive to the trunk of the trees, ſuch as the coleopterous inſects, which, perhaps, do as much miſchief as the caterpillars.</p>
             <p n="4">IV. As a devourer of pernicious inſects, one of the moſt uſeful birds with which I am acquainted, is the Houſe-Wren, or Certhia familiaris?<note n="*" place="bottom">In the Tables, it is called Certhia familiaris <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -1957,7 +1957,7 @@ III. Moſt of our ſpecies of Picus, or Woodpecker, appear to me to be very uſe
                      <desc>•</desc>
                   </gap>nnant.</note> the Tantalus ruber, or Scarlet Ibis,<note n="§" place="bottom">Red Curlew of Cateſby.</note> the Tantalus fuſcus or Brown Ibis,<note n="‖" place="bottom">Brown Curlew of Cateſby.</note> and the Tantalus albus, or White Ibis.<note n="¶" place="bottom">White Curlew of Cateſby.</note> Mr. Bartram informs us, that the firſt of theſe birds feeds "on ſerpents, young alligators, frogs, and other reptiles."<note n="**" place="bottom">Travels, &amp;c. P. 150.</note> It is commonly ſeen "near the banks of great rivers, in vaſt marſhes or meadows, eſpecially ſuch as are cauſed by inundations, and alſo in the vaſt deſerted Rice plantations."<note n="††" place="bottom">lord.</note> This bird, both with regard to his general aſpect, and his manners and habits, may be conſidered as the Ibis of Ame<g ref="char:EOLhyphen"/>rica. In the midſt of all their ſuperſtitions, I do not find, however, that the native Americans have ever paid any par<g ref="char:EOLhyphen"/>ticular regard to this bird. I cannot learn that any of theſe ſpecies of Tantalus have ever been ſeen in Pennſylvania.</p>
             <p n="6">
-               <pb n="23" facs="tcp:035159_0040_100129F8E41A7E20"/>
+               <pb n="23" facs="unknown:035159_0040_100129F8E41A7E20"/>
 VI. Some of the birds of the Vultur-kind are extremely uſeful to man, by deſtroying immenſe quantities of car<g ref="char:EOLhyphen"/>rion, which ſerve to vitiate the air, and perhaps in ſome inſtances to give riſe to malignant epidemics. The Vultur Aura, or Turkey-Buzzard of our country, is one of the moſt uſeful of theſe birds. In Virginia it is protected by a law of that ſtate. The Abbé Clavigero ſpeaks of the uſefulneſs of the <hi>Cozcaquauhtli,</hi> or King of the Zopi<g ref="char:EOLhyphen"/>lots, the Vultur Papa of Linnaeus. "The Zopilot, ſays this writer, is a moſt uſeful bird to that country (Mexico), for they not only clear the fields, but attend the crocodiles and deſtroy the eggs which the females of thoſe dread<g ref="char:EOLhyphen"/>ful amphibious animals leave in the ſand to be hatched by the heat of the ſun. The deſtruction of ſuch a bird ought to be prohibited under ſevere penalties."<note n="*" place="bottom">The Hiſtory of Mexico. Vol. 1. P 48.</note>
             </p>
             <p>I am ſenſible, that theſe few facts, which are thrown together without any regard to order, can be of little uſe except in as far as they may turn the attention of other perſons, who poſſeſs more leiſure and information than myſelf, to the ſubject, which is at once curious and important. It appears to to me be a ſubject peculiarly intereſting to my coun<g ref="char:EOLhyphen"/>trymen. Perhaps, few parts of the world are more infeſted with noxious inſects than the United-States. The greater number of theſe inſects are, I believe, natives of the country, though our partiality to the ſoil which gave us birth has not always allowed us to acknowledge this truth. Thus we give to the Heſſians the honour of in<g ref="char:EOLhyphen"/>troducing among us that moſt pernicious inſect, the Heſſian-Fly, which, for ſeveral years, has committed, and ſtill commits, ſuch alarming ravages on ſome of our moſt valuable grains, particularly the Wheat and the Rye. But this inſect is, undoubtedly, a native of America. How it came to be, for ſo long a time, overlooked, will probably be mentioned in a memoir, concerning this and other noxious inſects, which I hope to publiſh.</p>
@@ -1967,7 +1967,7 @@ VI. Some of the birds of the Vultur-kind are extremely uſeful to man, by deſtr
                      <desc>•</desc>
                   </gap>ton.</note> that contributes ſo much to beautify our city, is moſt probably a native of our woods. It prefers this fine foreigner to the leſs palatable leaves upon which it has been formerly accuſtomed to feed. Other inſtances of this kind might be mentioned. They ſhow how very neceſſary it is to watch the migrations of inſects from the native to the introduced vegetables; and they teach us a truth, not I think ſuffi<g ref="char:EOLhyphen"/>ciently attended to by naturaliſts, that different kinds of inſects are much leſs confined to vegetables of the ſame ſpecies, or to ſpecies of the ſame genus, than has been commonly imagined. It is certain, that the ſame ſpecies of inſects, in America, often feeds indiſcriminately, and in ſucceſſion, upon plants of very oppoſite genera, and even of very different natural orders.</p>
             <p>Hitherto, too little progreſs has been made among us in the diſcovery of remedies for the great miſchiefs occaſioned by inſects. The ſubject has not been examined with ſufficient attention. It has given place to diſcuſſions and inquiries of very inferior utility; and I fear it will not claim all that induſtrious attention which it ſo well merits, until the evil ſhall have ſpread ſtill farther. It is, doubtleſs, difficult, but it is by no means impoſſible, to prevent the ravages of noxious inſects. In this important buſineſs, ſomething has already been done in our country. We have diſcovered a method of diminiſhing the depredations of the little bug, called Cucumber-Fly, which proves ſo deſtructive to the cucurbitaceous vines, particularly thoſe of the Cucumber, and Muſk-melon.<note n="§" place="bottom">See the Tables. Page 4.</note> By manuring our wheat-lands, and thereby increaſing the ſtrength and vigour of the wheat, we have leſſened the evil of the Heſſian-Fly. By ſuſpending to our young apple and other trees pieces of tow, impregnated with a mixture of brimſtone and train-oil, we have learned how to frighten away the periodical Locuſts (Cicada
-<pb n="24" facs="tcp:035159_0041_100129FCA9E28CA8"/>ſeptem<g ref="char:EOLhyphen"/>decim of Linnaeus), which often do ſo much injury to our orchards.<note n="*" place="bottom">It is only the female Cicada ſeptemdecim that does miſchief to our orchards, &amp;c. This ſhe does by making inciſions into the tender branches, to depoſit her eggs. In conſequence of this operation, the leaves periſh. The inſect does no miſchief "by devouring the leaves," as has been aſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="24" facs="unknown:035159_0041_100129FCA9E28CA8"/>ſeptem<g ref="char:EOLhyphen"/>decim of Linnaeus), which often do ſo much injury to our orchards.<note n="*" place="bottom">It is only the female Cicada ſeptemdecim that does miſchief to our orchards, &amp;c. This ſhe does by making inciſions into the tender branches, to depoſit her eggs. In conſequence of this operation, the leaves periſh. The inſect does no miſchief "by devouring the leaves," as has been aſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rted by ſome reſpectable writers. See Tranſactions of the American Philoſophical Society. Vol. III. Introduction. Page xxii.</note> The American Philoſophical Society, by calling the attention of the public to the decay of our Peach-trees, has brought us to a better acquaintance with the cauſes of this decay, and with the means of preventing it. Inſects are no doubt one of theſe cauſes.<note n="†" place="bottom">The peach-inſect (It is an Ichn<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
